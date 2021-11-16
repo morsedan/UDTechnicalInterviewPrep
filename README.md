@@ -21,7 +21,7 @@ After looking through this material, if you still have questions (and you probab
 
 Data structures are simply a way of storing data. These ways of storing data were conceived to solve some problem. The basic data structures are below:
 
-- Stack
+- [Stack](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Stack.md)
 - Queue
 - Linked List
 - Tree
