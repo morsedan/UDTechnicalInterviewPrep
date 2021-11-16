@@ -32,6 +32,6 @@ Data structures are simply a way of storing data. These ways of storing data wer
 
 An algorithm is a set of instructions that solves a problem. Some common categories of algorithms are listed below:
 
-- [Recursion]((https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/Recursion.md)
-- [Sorting]((https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/Sorting.md)
-- [General Problem Solving]((https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/GeneralProblemSolving.md)
+- [Recursion](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/Recursion.md)
+- [Sorting](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/Sorting.md)
+- [General Problem Solving](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/Algorithms/GeneralProblemSolving.md)
