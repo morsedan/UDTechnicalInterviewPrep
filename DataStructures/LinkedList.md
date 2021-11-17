@@ -1,6 +1,6 @@
 # Linked List
 
-A linked list is sort of like a treasure hunt where you get a clue that tells you where to find the next clue. Then you go find that to get the location of the third clue, etc. Eventually you get to the end and the game is over. Each part of a linked list is called a node. A node will hold a value and a link to the next node. This is very flexible in terms of how it uses memory, but you only hold onto the value of the first node. This means if you have a linked list with five nodes and you want the value from the fourth node, you would have to follow this process 
+A linked list is sort of like a treasure hunt where you get a clue that tells you where to find the next clue. Then you go find the second clue to get the location of the third clue, etc. Eventually you get to the end and the game is over. Each part of a linked list is called a node. A node will hold a value and a link to the next node. This is very flexible in terms of how it uses memory, but you only hold onto the value of the first node. This means if you have a linked list with five nodes and you want the value from the fourth node, you would have to follow this process 
     1. go to the first node
     2. get the second node from it
     3. get the third node from that one
