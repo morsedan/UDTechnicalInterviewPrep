@@ -1,6 +1,6 @@
 # Stack
 
-You can think of a stack like a stack of books or a stack of cards. You put (the technical term is push) things onto the stack. Then when you take them off (the technical term is pop), whatever you put on last will come off first. A stack is a last in, first out (LIFO) data structure.
+You can think of a stack like a stack of books or a stack of cards. You put (the technical term is **push**) things onto the stack. Then when you take them off (the technical term is **pop**), whatever you put on last will come off first. A stack is a last in, first out (LIFO) data structure.
 
 Read the article or watch the video below. 
 
