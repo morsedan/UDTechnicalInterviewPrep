@@ -19,7 +19,7 @@ After looking through this material, if you still have questions (and you probab
 
 ## Data Structures
 
-Data structures are simply a way of storing data. These ways of storing data were conceived to solve some problem. The basic data structures are below:
+Data structures are simply a way of storing data. Each of these ways of storing data was conceived to solve some problem. The basic data structures are below:
 
 - [Stack](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Stack.md)
 - [Queue](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Queue.md)
