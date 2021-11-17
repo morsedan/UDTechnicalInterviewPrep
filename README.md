@@ -25,8 +25,8 @@ Data structures are simply a way of storing data. These ways of storing data wer
 - [Queue](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Queue.md)
 - [Linked List](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/LinkedList.md)
 - [Tree](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Tree.md)
-- [Graph](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Graph.md)
 - [Hash Table](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/HashTable.md)
+- [Graph](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Graph.md)
 
 ## Algorithms
 
