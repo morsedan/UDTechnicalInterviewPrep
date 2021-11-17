@@ -20,10 +20,10 @@ myStack.push(3)
 myStack.push(5)
 myStack.push(4)
 
-print("Length:", myStack.length)
-print("Popped", myStack.pop())
-print("Popped", myStack.pop())
-print("Popped", myStack.pop())
-print("Popped", myStack.pop())
-print("Length:", myStack.length)
+print("Length:", myStack.length) // 4
+print("Popped", myStack.pop()) // 4
+print("Popped", myStack.pop()) // 5
+print("Popped", myStack.pop()) // 3
+print("Popped", myStack.pop()) // 1 
+print("Length:", myStack.length) // 0
 
