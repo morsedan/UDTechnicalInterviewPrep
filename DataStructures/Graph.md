@@ -18,3 +18,5 @@ Practice Problems:
     [Number Of Islands](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/NumberOfIslands/NumberOfIslands/main.swift)
     [Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club#graphs)
     [Leetcode Graph Problems](https://leetcode.com/tag/graph/)
+
+As always, if you have questions, ask someone. Don't stay stuck. 
