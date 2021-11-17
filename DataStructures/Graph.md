@@ -14,9 +14,9 @@ Here's a video on breadth first search and depth first search:
 
 Implement a basic graph [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/Graph/Graph/main.swift).
 
-Practice Problems:
-    [Number Of Islands](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/NumberOfIslands/NumberOfIslands/main.swift)
-    [Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club#graphs)
-    [Leetcode Graph Problems](https://leetcode.com/tag/graph/)
+Practice Problems:  
+    [Number Of Islands](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/NumberOfIslands/NumberOfIslands/main.swift)  
+    [Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club#graphs)  
+    [Leetcode Graph Problems](https://leetcode.com/tag/graph/)  
 
 As always, if you have questions, ask someone. Don't stay stuck. 
