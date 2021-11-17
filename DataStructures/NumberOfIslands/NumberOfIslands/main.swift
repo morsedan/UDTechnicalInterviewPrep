@@ -13,9 +13,12 @@ import Foundation
  */
 
 func numberOfIslands(onMap map: [[Int]]) -> Int {
+    <#your code here#>
     return -1
 }
 
+
+// MARK: Tests
 var map = [
     [1, 0, 1, 1, 0],
     [1, 1, 0, 0, 1],
