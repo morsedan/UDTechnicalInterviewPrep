@@ -25,7 +25,7 @@ func recursiveFunction(data: Int, spacing: String = "") {
 recursiveFunction(data: 10)
 ```
 
-This will print the output below:
+This will print the output below:  
 10  
   9  
     8  
