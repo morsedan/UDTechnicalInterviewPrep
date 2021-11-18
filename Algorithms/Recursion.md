@@ -19,7 +19,7 @@ func recursiveFunction(data: Int, spacing: String = "") {
     if data < 5 {
         return
     }
-    recursiveFunction(data: data - 1, spacing: "  " + spacing)
+    recursiveFunction(data: data - 1, spacing: spacing + "  ")
 }
 
 recursiveFunction(data: 10)
