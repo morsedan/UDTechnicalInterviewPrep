@@ -11,3 +11,7 @@ And now that you have a basic idea of recursion, you should practice a few diffe
     [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  
     [Power of Two](https://leetcode.com/problems/power-of-two)  
     [All Leetcode Recursion Problems](https://leetcode.com/tag/recursion/)  
+
+Still struggling with recursion? Here's a tip. Any time you write a recursive function add a "spacing" parameter that is of type String. Give this parameter a default value of an empty string, "". Print the data you are working with at the beginning of the function, but make sure you put the spacing string at the front of the print statement. Before you call the function inside of itself, add two spaces to the spacing and pass that through. This way, as you move deeper and deeper into the recursive calls you will be able to track how deep you are, and what the state of the data is at that point.
+
+func recursiveFunction(data: Int, spacing: String = "") {
