@@ -1,6 +1,6 @@
 # Underdog Devs Technical Interview Prep
 
-The purpose of this repo is to provide a structured approach to preparing for entry-level software development position interviews. 
+The purpose of this repo is to provide a structured approach to preparing for entry-level software developer interviews. 
 
 Everyone learns at a different pace. Don't compare how quickly you progress through this material to how quickly others do. It won't help you.
 
