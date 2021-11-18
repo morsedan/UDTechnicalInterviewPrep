@@ -15,7 +15,7 @@ Computers have two resources, processing time and memory space. In order to unde
 ### Resources
 - https://www.bigocheatsheet.com
 
-After looking through this material, if you still have questions (and you probably will), reach out to your mentor or ask in Slack. Once you think you have a basic understanding of run-time complexity and space complexity, move on to Data Structures.
+After looking through this material, if you still have questions (and you probably will), reach out to your mentor or ask in Slack. Once you think you have a basic understanding of run-time complexity and space complexity, move on to Data Structures. As you work through the rest of this curriculum, calculate the Big O runtime complexity for each function you implement. 
 
 ## Data Structures
 
