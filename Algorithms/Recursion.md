@@ -6,8 +6,8 @@ This will not be clear without an example. This is probably a good time to watch
 
 [Recursion Video](https://www.youtube.com/watch?v=ngCos392W4w)
 
-And now that you have a basic idea of recursion, you should practice a few different problems that use recursion.
-    [Fibonacci](https://leetcode.com/problems/fibonacci-number)
-    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-    [Power of Two](https://leetcode.com/problems/power-of-two)
-    [All Leetcode Recursion Problems](https://leetcode.com/tag/recursion/)
+And now that you have a basic idea of recursion, you should practice a few different problems that use recursion.  
+    [Fibonacci](https://leetcode.com/problems/fibonacci-number)  
+    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  
+    [Power of Two](https://leetcode.com/problems/power-of-two)  
+    [All Leetcode Recursion Problems](https://leetcode.com/tag/recursion/)  
