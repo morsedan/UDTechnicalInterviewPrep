@@ -4,7 +4,7 @@ The purpose of this repo is to provide a structured approach to preparing for en
 
 Everyone learns at a different pace. Don't compare how quickly you progress through this material to how quickly others do. It won't help you.
 
-The material generally tested in entry level technical interviews can be summed up with the term Data Structures and Algorithms. 
+The material generally tested in entry level technical interviews can be summed up by the term Data Structures and Algorithms. 
 
 ## Prerequisite: Big O
 Computers have two resources, processing time and memory space. In order to understand why one data structure or algorithm is better than another, we need a way to measure how fast they run and how much memory they use. Big O is the most common way of measuring these resources. How much processing time an operation takes is referred to as **time complexity**. How much memory it uses is called **space complexity**. Before you dive into the study of data structures and algorithms you should have a basic understanding of Big O. Read through the article below or watch the video. Take a look at the items under Resources as well.
