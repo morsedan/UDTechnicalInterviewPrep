@@ -26,6 +26,7 @@ recursiveFunction(data: 10)
 ```
 
 This will print the output below:  
+```
 10  
   9  
     8  
@@ -33,5 +34,5 @@ This will print the output below:
         6  
           5  
             4  
-
+```
 If this isn't helpful, you can ask your mentor, hit me up directly (@Dan M on Slack), or ask in the general Slack channel. You can also just ignore it! 😉
