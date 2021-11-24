@@ -16,8 +16,13 @@ Read the article or watch the video below.
 
 One of the best ways to ensure you actually understand a data structure is to implement it. Can you implement a linked list? Implement a singly linked list [here](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/SinglyLinkedList/SinglyLinkedList/main.swift). Implement the commented out methods in this doubly linked list [here](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/DoublyLinkedList/DoublyLinkedList/main.swift).
 
+[Python singly linked list](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/SinglyLinkedList/SinglyLinkedList.py)
+[Python doubly linked list](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/DoublyLinkedList/DoublyLinkedList.py)
+
 It is not uncommon to be asked to use a linked list in a technical interview. Here are some of the most common problems:  
     - [Reverse a singly linked list](https://leetcode.com/problems/reverse-linked-list/)  
     - [Remove the nth node from the end of a linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+Now that you've learned and implemented a doubly linked list, can you refactor your stack and queue to use a doubly linked list for storage?
 
 If you have any questions, ask your mentor or ask in Slack.

@@ -9,7 +9,7 @@ Once you are familiar with the idea of recursion, take a look at the video or ar
 [Tree Video](https://www.youtube.com/watch?v=qYiBx2pomlQ)
 [Tree Article](https://en.wikipedia.org/wiki/Tree_(data_structure))
 
-Test your understanding by implementing a basic binary search tree [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/BinarySearchTree/BinarySearchTree/main.swift).
+Test your understanding by implementing a basic binary search tree [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/BinarySearchTree/BinarySearchTree/main.swift). Or [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/BinarySearchTree/BinarySearchTree.py) if you use Python.
 
 More practice is available at the following sites:
     - [Leetcode](https://leetcode.com/tag/tree/)

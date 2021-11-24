@@ -10,6 +10,7 @@ Read the article or watch the video below.
 One of the best ways to ensure you actually understand a data structure is to implement it. Can you implement a stack? Your stack should be a class that has a push method and a pop method. It's ok if you need to refer back to the video or article.
 
 [Here's](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Stack/Stack/main.swift) an example of a very basic stack implemented in swift.  
+[And here's](https://github.com/morsedan/UDDTechnicalInterviewPrep/blob/main/DataStructures/Stack/Stack.py) one in Python.
 *Note: Many instructors will use a playground to teach these concepts. There's nothing wrong with that, however I do find them to be flaky and slow. I use a macOS Command Line Tool. Feel free to use whatever project type works for you.*
 
 If you have any questions, ask your mentor or ask in Slack.

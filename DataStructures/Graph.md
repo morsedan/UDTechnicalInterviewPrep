@@ -12,7 +12,7 @@ Read the article or watch the video below.
 Here's a video on breadth first search and depth first search:
 [BFS, DFS Video 15m](https://www.youtube.com/watch?v=TIbUeeksXcI) 
 
-Implement a basic graph [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/Graph/Graph/main.swift).
+Implement a basic graph [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/Graph/Graph/main.swift). Or [here](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/Graph/Graph.py) if you use Python.
 
 Practice Problems:  
     [Number Of Islands](https://github.com/morsedan/UDTechnicalInterviewPrep/blob/main/DataStructures/NumberOfIslands/NumberOfIslands/main.swift)  

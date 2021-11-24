@@ -9,4 +9,4 @@ So what is a hash table? A hash table is a way of storing data where the "locati
 
 Make sure to implement resizing the hash table. This is referred to at the end of the article. You may need to get help from your mentor or in the Slack channel.
 
-More practice is available [on Leetcode](https://leetcode.com/tag/hash-table/).
+More practice with problems that are suited to using a hash table is available [on Leetcode](https://leetcode.com/tag/hash-table/).

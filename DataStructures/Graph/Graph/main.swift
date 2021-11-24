@@ -21,7 +21,7 @@ class Graph {
     }
     
     // This returns an array of integers instead of a set because the order is important.
-    func depthFirstSearch(startingFrom startVertex: Int) -> [Int] {
+    func depthFirstTraversal(startingFrom startVertex: Int) -> [Int] {
         
     }
     
