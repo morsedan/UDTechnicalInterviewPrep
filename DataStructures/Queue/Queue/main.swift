@@ -9,7 +9,7 @@ class Queue<T> {
         <#your code here#>
     }
     
-    func dequeue() -> T {
+    func dequeue() -> T? {
         <#your code here#>
     }
 }
