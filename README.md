@@ -6,6 +6,8 @@ Everyone learns at a different pace. Don't compare how quickly you progress thro
 
 The material generally tested in entry level technical interviews can be summed up by the term Data Structures and Algorithms. 
 
+So the only time we're going to use this knowledge is during technical interviews? No, knowing how algorithms work is actually helpful in many problems you will need to solve as a software developer. [Here's](https://www.youtube.com/watch?v=ymCXsPwg8G8) an example. Learning these concepts not only helps you get a job, but also helps you excel once you do. Let's get started.
+
 ## Prerequisite: Big O
 Computers have two resources, processing time and memory space. In order to understand why one data structure or algorithm is better than another, we need a way to measure how fast they run, how much memory they use, and ultimately how these both scale as the quantity of data increases. Big O is the most common way of measuring these. How much processing time an operation takes is referred to as **time complexity**. How much memory it uses is called **space complexity**. Before you dive into the study of data structures and algorithms you should have a basic understanding of Big O. Read through the article below or watch the video. Take a look at the items under Resources as well.
 
