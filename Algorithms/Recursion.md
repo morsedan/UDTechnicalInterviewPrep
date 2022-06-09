@@ -18,6 +18,7 @@ Still struggling with recursion? Here's a tip. Any time you write a recursive fu
 func recursiveFunction(data: Int, spacing: String = "") {
     print("\(spacing)\(data)")
     if data < 5 {
+        print("\(spacing)Base case.")
         return
     }
     recursiveFunction(data: data - 1, spacing: spacing + "      ")
@@ -36,6 +37,7 @@ This will print the output below:
                         6
                               5
                                     4
+                                    Base case.
                               5 Other stuff happens.
                         6 Other stuff happens.
                   7 Other stuff happens.
