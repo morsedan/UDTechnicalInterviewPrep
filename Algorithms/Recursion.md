@@ -16,11 +16,11 @@ And now that you have a basic idea of recursion, you should practice a few diffe
 Still struggling with recursion? Here's a tip. Any time you write a recursive function add a "spacing" parameter that is of type String. Give this parameter a default value of an empty string, "". Print the data you are working with at the beginning of the function, but make sure you put the spacing string at the front of the print statement. Before you call the function inside of itself, add two spaces to the spacing and pass that through. This way, as you move deeper and deeper into the recursive calls you will be able to track how deep you are, and what the state of the data is at that point.
 ```swift
 func recursiveFunction(data: Int, spacing: String = "") {
-    print("\(spacing)\(data)")
     if data < 5 {
-        print("\(spacing)Base case.")
+        print("\(spacing)\(data) Base case.")
         return
     }
+    print("\(spacing)\(data)")
     recursiveFunction(data: data - 1, spacing: spacing + "      ")
     print("\(spacing)\(data) Other stuff happens.")
 }
@@ -36,8 +36,7 @@ This will print the output below:
                   7
                         6
                               5
-                                    4
-                                    Base case.
+                                    4 Base case.
                               5 Other stuff happens.
                         6 Other stuff happens.
                   7 Other stuff happens.
