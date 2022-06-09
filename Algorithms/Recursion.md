@@ -21,7 +21,7 @@ func recursiveFunction(data: Int, spacing: String = "") {
         return
     }
     recursiveFunction(data: data - 1, spacing: spacing + "      ")
-    print("\(spacing)Other stuff happens.")
+    print("\(spacing)\(data) Other stuff happens.")
 }
 
 recursiveFunction(data: 10)
@@ -29,12 +29,18 @@ recursiveFunction(data: 10)
 
 This will print the output below:  
 ```
-10  
-  9  
-    8  
-      7  
-        6  
-          5  
-            4  
+10
+      9
+            8
+                  7
+                        6
+                              5
+                                    4
+                              5 Other stuff happens.
+                        6 Other stuff happens.
+                  7 Other stuff happens.
+            8 Other stuff happens.
+      9 Other stuff happens.
+10 Other stuff happens.
 ```
 If this isn't helpful, you can ask your mentor, hit me up directly (@Dan M on Slack), or ask in the general Slack channel. You can also just ignore it! 😉
