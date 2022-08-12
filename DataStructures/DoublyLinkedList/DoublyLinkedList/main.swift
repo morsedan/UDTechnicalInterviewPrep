@@ -21,7 +21,21 @@ class DoublyLinkedList<T> {
         self.head = head
         self.tail = head
     }
-    
+    /*
+     current:
+     ____
+     1
+     4
+     7
+     ****
+     After addToHead(9):
+     ____
+     9
+     1
+     4
+     7
+     ****
+     */
 //    func addToHead(_ value: T) {
 //        <#your code here#>
 //    }
@@ -71,3 +85,20 @@ list.addToTail(4)
 list.addToTail(7)
 
 list.printList()
+
+/*
+ current:
+ ____
+ 1
+ 4
+ 7
+ ****
+ After addToHead(9):
+ ____
+ 9
+ 1
+ 4
+ 7
+ ****
+ 
+ */
